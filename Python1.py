@@ -1,0 +1,5 @@
+s = input ("Введите строку: ")
+l = s.split()
+print(l)
+s1 = '*'.join(l)
+print(s1)
